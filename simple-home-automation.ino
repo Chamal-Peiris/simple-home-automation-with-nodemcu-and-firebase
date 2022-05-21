@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
                           
-#define FIREBASE_HOST "home-automation-2c674-default-rtdb.firebaseio.com"                     //Your Firebase Project URL goes here without "http:" , "\" and "/"
-#define FIREBASE_AUTH "2jUqWGb2pTyQWi2DCLA6kZ6zLEFW5opVHzppdBc7" //Your Firebase Database Secret goes here
+#define FIREBASE_HOST "***your firebase host name***"                     //Your Firebase Project URL goes here without "http:" , "\" and "/"
+#define FIREBASE_AUTH "**your firebase auth key***" //Your Firebase Database Secret goes here
 
 #define WIFI_SSID "BELL4G-D552"
 #define WIFI_PASSWORD "E9GG46ENN2R"
